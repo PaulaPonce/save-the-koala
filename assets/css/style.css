@@ -80,7 +80,30 @@ img{
 	width: 100%;
 }
 
-.second-section h1, .second-section h2{
+.second-section h1, .second-section h3{
 	color: #A89F68;
 	font-weight: 700;
+}
+
+/* Sección tres */
+.contenedor-tres{
+	margin: 4em;
+	padding: 4em 0;
+}
+
+.third-section{
+	background-color: #A89F68;
+	color:#FFF;
+}
+
+.third-section h3{
+	color: #41521F;
+	font-weight: 700;
+}
+.third-section h4{
+	font-weight: 700;
+}
+
+.img-border{
+	border: 5px solid #FFF;
 }
