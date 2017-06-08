@@ -85,10 +85,9 @@ img{
 	font-weight: 700;
 }
 
-/* Sección tres */
+/* Sección Tres */
 .contenedor-tres{
-	margin: 4em;
-	padding: 4em 0;
+	padding: 8em 4em;
 }
 
 .third-section{
@@ -106,4 +105,22 @@ img{
 
 .img-border{
 	border: 5px solid #FFF;
+}
+
+/* Sección Cuatro */
+.contenedor-cuatro{
+	padding: 5em 0;
+	padding-left: 45em;
+}
+
+.fourth-section{
+	background-image: url(../img/all.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	color: #FFF;
+}
+
+.fourth-section h3{
+	font-weight: 700;
 }
