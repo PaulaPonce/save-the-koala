@@ -124,3 +124,13 @@ img{
 .fourth-section h3{
 	font-weight: 700;
 }
+
+/* Sección Cinco */
+.contenedor-cinco{
+	padding: 4em;
+}
+
+.fifth-section h3, .fifth-section i{
+	color: #A89F68;
+	text-align: center;
+}
