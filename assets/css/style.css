@@ -6,9 +6,23 @@ army green: #41521F;
 	font-family: 'Lato', sans-serif;
 }
 
+a{
+	color: #A89F68;
+}
+a:hover{
+	color: #41521F;;
+}
+
+/* Sección Bienvenida */
+.contenedor-bienvenida{
+	padding: 8em 4em;
+}
+
 .navbar-inverse {
     background-color: transparent;
     border-color: transparent;
+    padding-left: 4em;
+	padding-right: 4em;
 }
 .navbar-inverse .navbar-brand {
     color: #FFF;
@@ -28,7 +42,6 @@ army green: #41521F;
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
-
 	color: #FFF;
 	font-size: 18px;
 }
@@ -52,4 +65,22 @@ army green: #41521F;
 	color: #41521F;
 	background-color: #A89F68;
 	border-color: #41521F;
+}
+
+/* Sección Dos */
+.contenedor{
+	margin: 4em;
+}
+
+.contenedor-texto{
+	margin-top: 6em;
+}
+
+img{
+	width: 100%;
+}
+
+.second-section h1, .second-section h2{
+	color: #A89F68;
+	font-weight: 700;
 }
