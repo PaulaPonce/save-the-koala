@@ -126,11 +126,23 @@ img{
 }
 
 /* Sección Cinco */
-.contenedor-cinco{
+.fifth-section{
 	padding: 4em;
+	text-align: center;
 }
 
 .fifth-section h3, .fifth-section i{
 	color: #A89F68;
-	text-align: center;
+	font-weight: 700;
+	padding-bottom: .5em;
+	padding-top: .5em;
+}
+
+i{
+    display: inline-block;
+    width: 100%;
+}
+
+.fa{
+    font-size: 4em;
 }
