@@ -10,7 +10,8 @@ a{
 	color: #A89F68;
 }
 a:hover{
-	color: #41521F;;
+	color: #A89F68;
+	text-decoration: underline;
 }
 
 /* Sección Bienvenida */
@@ -186,4 +187,19 @@ sub{
 }
 .list-group-item:last-child{
 	border-bottom: none;
+}
+
+/* Footer */
+.footer{
+	background-color: #41521F;
+	color: #FFF;
+	padding: 4em;
+}
+
+.footer h4{
+	color: #A89F68;
+}
+.footer .list-group-item{
+	padding: 0;
+	border: none;
 }
