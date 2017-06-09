@@ -127,6 +127,7 @@ img{
 
 /* Sección Cinco */
 .fifth-section{
+	background-color: 
 	padding: 4em;
 	text-align: center;
 }
@@ -134,8 +135,8 @@ img{
 .fifth-section h3, .fifth-section i{
 	color: #A89F68;
 	font-weight: 700;
-	padding-bottom: .5em;
 	padding-top: .5em;
+	padding-bottom: .5em;
 }
 
 i{
@@ -145,4 +146,44 @@ i{
 
 .fa{
     font-size: 4em;
+}
+
+/* Sección Seis */
+.sixth-section{
+	background-color: #A89F68;
+	padding: 4em;
+	text-align: center;
+}
+
+.sixth-section h3{
+	color: #41521F;
+	font-weight: 700;
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
+.sixth-section h4{
+	color: #FFF;
+	font-size: 5em;
+	font-weight: 700;
+}
+.sixth-section h5{
+	font-weight: 900;
+}
+
+sup{
+	font-size: 0.2em;
+    top: -3em;
+}
+sub{
+	font-size: 0.2em;
+    bottom: -.25em;	  
+}
+
+.list-group-item{
+    background-color: transparent;
+    border: transparent;
+    border-bottom: 1px solid #FFF;
+}
+.list-group-item:last-child{
+	border-bottom: none;
 }
